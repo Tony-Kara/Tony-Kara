@@ -2,7 +2,7 @@ It's Tony! 👋
 
 💻 iOS Developer | 🧰 former IT Lead | MSc Information technology
 
-🥅 2020 Goals: I’m always learning everything iOS and developing my own Apps 🤣
+🥅 2022 Goals: The dreams are valid, iOS vahalla 🤣
 
 I am skilled at designing and building iOS application, versatile in 
 
