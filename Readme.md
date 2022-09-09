@@ -11,6 +11,7 @@ Design Guidelines
 Apple Human Interface Guidelines
 Networking and Working with APIs
 Core Data
+WebView integration
 Grand Central Dispatch
 Working with Databases - Firebase, Realm, Core Data
 Third party libraries - Cocoa Pods, Swift package Manager
