@@ -2,8 +2,6 @@ It's Tony! 👋
 
 💻 iOS Developer | 🧰 former IT Lead | MSc Information technology
 
-🥅 2022 Goals: Finish up my community app project and of course, iOS valhalla 🤣
-
 I am skilled at designing and building iOS application, versatile in 
 
 Apple's Xcode IDE,
