@@ -1,6 +1,6 @@
 It's Tony! 👋
 
-💻 iOS Developer | 🧰 former IT Lead | MSc Information technology
+💻 Senior iOS Developer | 🧰 former IT Lead | MSc Information technology
 
 I am skilled at designing and building iOS application, versatile in 
 
